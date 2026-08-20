@@ -4,5 +4,5 @@
 
 ### Detalles
 - Hay versiones anteriores de los personajes.
-- No todos los dibujos fueron hechos por el autor, varios son de colaboradores.
+- Gran parte de los dibujos aquí son de artistas externos, el autor es malo para dibujar.
 - No encontrarán spoilers importantes de la historia.
