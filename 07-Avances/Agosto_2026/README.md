@@ -1,4 +1,9 @@
-# Avances Agosto 2026
+# Avances de Setiembre del 2026
 
-Durante este mes, se planificó el inicio del Acto II de Nombres Ocultos.
-Se redactaron los episodios VII, VIII y IX; como un conjunto de 3 que termina por introducir las dinámicas, el estado emocional de los personajes y a todos los actores importantes dentro de la historia. Por lo previamente mencionado, es el último de los tres, el IX, aquel que introduce a Ignacia como parte clave dentro del misterio.
+Durante el mes de Setiembre del 2026 se empezó la redacción de la versión actual de Nombres Ocultos.
+El autor comenzó con capítulo doble: I y II.
+También decidió redactar el tercer capítulo desde la perspectiva de la co-protagonista.
+
+Al cabo de las semanas, terminó de redactar los capítulos: IV, V, VI; como un conjunto de 3.
+
+Esta planificación es con tal de mantener al lector interesado en el misterio e interesarse por el pueblo, los personajes y sus misterios / pasado oculto.
