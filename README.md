@@ -16,11 +16,11 @@
 - [Capítulos](./01-Capitulos)
 - [Personajes](./02-Personajes)
 - [Mundo](./03-Mundo)
-- [Temas musicales](./04-Temas-Musicales)
+- [Temas musicales](./04-Temas_Musicales)
 - [Dibujos](./05-Dibujos)
 - [Documentos](./06-Documentos)
 - [Avances](./07-Avances)
-- [Curiosidades](./Curiosidades)
+- [Curiosidades](./08-Curiosidades)
 - [Archivo](./99-Archivo)
 
 ## Sobre la novela
